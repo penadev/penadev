@@ -1,10 +1,18 @@
+import React from 'react';
 import styled from 'styled-components'
+import MediaCard from '../src/components/MediaCard';
 
 const Title = styled.h1`
-  font-size: 50px;
+  font-size: 30px;
   color: ${({ theme }) => theme.colors.primary};
 `
 
 export default function Home() {
-  return <Title>My page</Title>
+  return (
+      <>
+        <div align="center">
+          <MediaCard />
+        </div>
+      </>
+  )
 }
