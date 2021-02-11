@@ -1,15 +1,15 @@
 
 ![BadgeFunc](https://img.shields.io/badge/Developer-Solutions%20Architect-brightgreen)
 
-#Fernando Pena
+<h1>Fernando Pena</h1>
 
-:heavy_check_mark: *I'm currently working as **Solutions Architect**.*
-:heavy_check_mark: *Working with technology as a **Developer** since 2003.*
-:heavy_check_mark: *Graduated in **Science Computer** with MBA in Information Technology Management*
+:heavy_check_mark: *I'm currently working as **Solutions Architect**.*<br>
+:heavy_check_mark: *Working with technology as a **Developer** since 2003.*<br>
+:heavy_check_mark: *Graduated in **Science Computer** with MBA in Information Technology Management*<br>
 
-:rocket: Innovator & Developer enthusiastic
-:books: Life long learning
-:speak_no_evil: Chatbot Developer
+:rocket: Innovator & Developer enthusiastic<br>
+:books: Life long learning<br>
+:speak_no_evil: Chatbot Developer<br>
 
 ```javascript
 function lifeCycle(isAlive) {
