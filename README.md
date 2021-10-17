@@ -1,8 +1,10 @@
 
 [![BadgeFunc](https://img.shields.io/badge/Developer-Solutions%20Architect-brightgreen)](https://main.d3f45tra2c7p3o.amplifyapp.com/)
 
-# [Fernando Pena](https://main.d3f45tra2c7p3o.amplifyapp.com/)
+# [Fernando Pena](https://pena.rocks/)
 
+[![Youtube](/_docs/youtube_24.png)](https://www.youtube.com/penarocks)
+[![Instagram](/_docs/insta_24.png)](https://www.instagram.com/pena.rocks/)
 [![LinkedIn](/_docs/linkedin_24.png)](https://www.linkedin.com/in/nandopena/)
 
 :heavy_check_mark: *I'm currently working as **Solutions Architect**.*  
