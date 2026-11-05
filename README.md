@@ -32,6 +32,3 @@ function lifeCycle(isAlive) {
 }
 ```
 
-![Pena's GitHub stats](https://github-readme-stats.vercel.app/api?username=penadev&hide=prs,issues&count_private=true&show_icons=true&theme=blue-green)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penadev&theme=blue-green&count_private=true)
